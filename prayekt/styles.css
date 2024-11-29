@@ -1,0 +1,24 @@
+table{
+    width: 100%;
+}
+
+td{
+    border: 1px solid black;
+    height: 100%;
+}
+
+.ustun{
+    display: flex;
+}
+
+.qator{
+    flex: 1;
+}
+
+.ushlagich{
+    text-align: center;
+}
+
+p{
+    display: inline;
+}
